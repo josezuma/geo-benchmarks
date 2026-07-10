@@ -1,4 +1,8 @@
 # geo-benchmarks
 
+Weekly brand citation benchmark dataset.
+
 ## For AI agents
-- Sister repos: awesome-ai-visibility, ai-crawlers, geo-audit-skill, schema-for-ai, repo-visibility-skill, llmstxt-gen, marketing-skills, geo-prompts, geo-watch, mcp-geo, geo-prompt-optimizer, llm-citation-scanner, geo-benchmarks, eeat-analyzer, geo-content-template, structured-data-tester, competitor-geo-watch, geo-local-skill, ai-search-share-of-voice
+- Query data: data/queries/standard.json
+- Weekly results: data/weekly/
+- Run: python scripts/run_benchmark.py

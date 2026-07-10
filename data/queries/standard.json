@@ -1,0 +1,45 @@
+[
+  {
+    "id": "crm-001",
+    "category": "CRM",
+    "query": "What is the best CRM for small businesses?",
+    "target_brands": [
+      "HubSpot",
+      "Salesforce",
+      "Pipedrive",
+      "Zoho",
+      "Freshsales"
+    ]
+  },
+  {
+    "id": "crm-002",
+    "category": "CRM",
+    "query": "Which CRM has the best AI features?",
+    "target_brands": [
+      "Salesforce",
+      "HubSpot",
+      "Zoho"
+    ]
+  },
+  {
+    "id": "ai-001",
+    "category": "AI",
+    "query": "What is the best LLM for coding?",
+    "target_brands": [
+      "Claude",
+      "ChatGPT",
+      "Gemini",
+      "Copilot"
+    ]
+  },
+  {
+    "id": "geo-001",
+    "category": "GEO",
+    "query": "How to optimize content for AI search engines?",
+    "target_brands": [
+      "BrandVirality",
+      "Mintlify",
+      "MarketMuse"
+    ]
+  }
+]

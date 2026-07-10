@@ -1,0 +1,20 @@
+name: Weekly Benchmark
+on:
+  schedule:
+    - cron: "0 6 * * 1"
+  workflow_dispatch:
+
+jobs:
+  benchmark:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run benchmark
+        run: python scripts/run_benchmark.py
+      - name: Commit results
+        run: |
+          git config user.name "josezuma"
+          git config user.email "jose@brandvirality.com"
+          git add data/weekly/
+          git commit -m "benchmark: weekly run $(date +%Y-W%W)" --allow-empty
+          git push
