@@ -6,7 +6,7 @@
     <a href="https://github.com/josezuma/geo-benchmarks/actions/workflows/benchmark.yml"><img src="https://github.com/josezuma/geo-benchmarks/actions/workflows/benchmark.yml/badge.svg" alt="Weekly Benchmark"></a>
   </p>
   <p>by <a href="https://brandvirality.com">BrandVirality</a> — <strong>SaaS for AI visibility.</strong><br>
-  <strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma</a></p>
+  <strong>Author:</strong> <a href="https://github.com/josezuma">Jose Zuma — Expert in AI Visibility</a></p>
 </div>
 
 ---
