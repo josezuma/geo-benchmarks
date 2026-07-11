@@ -1,3 +1,4 @@
-# CHANGELOG
+# Changelog
 
-Documentation for geo-benchmarks.
+## 1.0.0
+- Initial release
